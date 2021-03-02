@@ -2,7 +2,7 @@
 //  TabB_View.swift
 //  TabBar
 //
-//  Created by 小浦雄一朗 on 2021/02/02.
+//  Created by Goorer on 2021/02/02.
 //
 
 import SwiftUI
